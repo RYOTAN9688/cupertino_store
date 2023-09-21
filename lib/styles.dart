@@ -22,7 +22,7 @@ abstract class Styles {
   );
 
   static const TextStyle searchText = TextStyle(
-    color: Color(0xFFC2C2C2C),
+    color: Color(0xFFC2C2C2),
     fontWeight: FontWeight.w300,
   );
 
